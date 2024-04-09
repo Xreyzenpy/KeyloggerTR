@@ -22,6 +22,7 @@ Bu keylogger'ı kullanırken oluşabilecek herhangi bir sorundan biz sorumlu de�
 
 ----------------------------------------------------------------------------------------------------------------------------
 pip install keyboard
+pip install datetime
 
 ------------------------------------------------------------------------
 https://discord.gg/V8yFUPsRHJ
