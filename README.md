@@ -21,7 +21,9 @@ Sorumluluk reddi:
 Bu keylogger'ı kullanırken oluşabilecek herhangi bir sorundan biz sorumlu değiliz. Kullanımının tüm risklerini kabul edersiniz.
 
 ----------------------------------------------------------------------------------------------------------------------------
-
 pip install keyboard
+
+------------------------------------------------------------------------
+https://discord.gg/V8yFUPsRHJ
 
 
